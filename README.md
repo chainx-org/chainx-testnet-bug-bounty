@@ -1,2 +1,4 @@
 # chainx-testnet-bug-bounty
-The bug bounty program repository for ChainXv2.0. Please submit issues and get reward
+This repository will collect issues for new ChainX testnet.
+
+Any bugs or expected features, please submit issues. And you will get reward with PCX with valuable issues.
