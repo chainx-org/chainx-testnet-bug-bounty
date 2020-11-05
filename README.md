@@ -2,3 +2,5 @@
 This repository will collect issues for new ChainX testnet.
 
 Any bugs or expected features, please submit issues. And you will get reward with PCX with valuable issues.
+
+[submit](https://github.com/chainx-org/chainx-testnet-bug-bounty/issues/new)
