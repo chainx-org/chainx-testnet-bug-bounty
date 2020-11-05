@@ -23,5 +23,5 @@ if applicable, attach the console output here.
 If applicable, add screenshots to help explain your problem.
 
 **Account Info**
-Identity in chain:  
-ChainX Wallet Address(Major Chain):
+On-chain Identity:  display name and other necessary information. 
+ChainX Wallet Address(Major Chain): your wallet address in major chainx network.
