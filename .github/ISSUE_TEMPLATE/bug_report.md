@@ -24,4 +24,4 @@ If applicable, add screenshots to help explain your problem.
 
 **Account Info**
 UserOrNode: You're the User or Node. 
-ChainX Wallet Address(Major Chain): your wallet address in major chainx network.
+ChainX Wallet Address(Main Chain): your wallet address in ChainX main network.
